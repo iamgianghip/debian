@@ -1,2 +1,2 @@
 # thitracnghiem
-đề thi trắc nghiệm
+Nơi chứa thông tin kho phần mềm của Debian
